@@ -1,5 +1,6 @@
-<img src="https://i.imgur.com/GwV6sSd.png" width=80% style="display:block; margin-left:auto; margin-right:auto">
-
+<p align="center">
+    <img src="https://i.imgur.com/GwV6sSd.png" width=80%>
+</p>
 <!--
 **xaqui/xaqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
